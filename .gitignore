@@ -1,0 +1,27 @@
+# dependencies
+node_modules/
+.pnpm/
+
+# build output
+.next/
+dist/
+out/
+
+# testing
+coverage/
+
+# production
+.env
+.env.local
+
+# misc
+.DS_Store
+*.log
+
+# local dev
+.vscode/
+.idea/
+
+# vercel
+.vercel/
+
