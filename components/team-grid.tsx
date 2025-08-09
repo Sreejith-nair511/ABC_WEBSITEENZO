@@ -4,11 +4,13 @@ import { motion } from "motion/react"
 import Image from "next/image"
 
 const members = [
+  { id: 3, src: "/images/members/1000273831.jpg" },
+  { id: 5, src: "/images/members/1000273829.jpg" },
+  { id: 8, src: "/images/members/1000273845.jpg" },
+  { id: 10, src: "/images/members/1000273837.jpg" },
   { id: 1, src: "/images/members/1000273841.jpg" },
   { id: 2, src: "/images/members/1000273843.jpg" },
-  { id: 3, src: "/images/members/1000273831.jpg" },
   { id: 4, src: "/images/members/1000273847.jpg" },
-  { id: 5, src: "/images/members/1000273829.jpg" },
   { id: 6, src: "/images/members/1000273839.jpg" },
   { id: 7, src: "/images/members/1000273833.jpg" },
   { id: 8, src: "/images/members/1000273845.jpg" },
